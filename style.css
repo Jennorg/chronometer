@@ -61,3 +61,7 @@ button:active {
 button:active i {
   color: #8b0909;
 }
+
+i {
+  font-size: 1.1rem;
+}
